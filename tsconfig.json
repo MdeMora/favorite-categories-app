@@ -16,11 +16,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "checkJs": false,
-    "baseUrl": "src",
-    "paths": {
-      "components/*": ["components/*"],
-      "containers/*": ["containers/*"]
-    }
+    "baseUrl": "src"
   },
   "include": ["next-env.d.ts", "src/**/*"],
   "exclude": ["node_modules"]
