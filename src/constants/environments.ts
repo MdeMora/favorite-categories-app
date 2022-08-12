@@ -6,6 +6,6 @@ export enum Environments {
 
 export const HOSTNAMES = {
   DEVELOPMENT: 'http://localhost:3000/',
-  PRODUCTION: '',
-  TEST: '',
+  PRODUCTION: 'https://favorite-categories-app.vercel.app/',
+  TEST: 'https://favorite-categories-app-git-main-mdemora.vercel.app/',
 }
