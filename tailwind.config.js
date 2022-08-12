@@ -6,13 +6,6 @@ module.exports = {
     './src/containers/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    screens: {
-      sm: '433px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1280px',
-    },
-
     fontFamily: {
       sans: ['Arial', 'Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
