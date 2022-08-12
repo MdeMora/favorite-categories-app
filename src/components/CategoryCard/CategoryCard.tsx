@@ -12,7 +12,7 @@ const CategoryCard = ({ sectionTitle, item, fav }: CategorySectionProps) => {
   const { setNewFavorite, removeFavorite } = useFavorites()
 
   return (
-    <div className="min-w-[185px] w-[185px] mr-1 sm:mr-8 mb-12 ">
+    <div className="min-w-[185px] w-[185px]  mb-12 ">
       <Image
         src={item.image_url}
         alt={`Image of ${item.title}`}
