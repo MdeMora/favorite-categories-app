@@ -37,42 +37,6 @@
           "title": "Cassandra Darke",
           "description": "Un Cuento de Navidad para nuestra época. Egoísta y solitaria, Cassandra Darke es una marchante de arte que vive en una lujosa mansión del barrio de Chelsea, en el mismísimo corazón de Londres. Se ha convertido en una paria social, pero no le preocupa",
           "image_url": "https://i.picsum.photos/id/521/200/300.jpg?hmac=_MGlU-tHw5IBlsNL7YvJ9lTMo4Ge605GWQwuKGxWIWU"
-        },
-        {
-          "id": 40,
-          "title": "Heartstopper - Tomo 1",
-          "description": "Charlie y Nick van al mismo colegio, aunque nunca se habían cruzado hasta el día en que los hacen sentarse juntos en su grupo de estudio. Muy pronto se vuelven amigos y más pronto aún Charlie comienza a sentir cosas por Nick... aunque sabe que es un imposible.",
-          "image_url": "https://i.picsum.photos/id/682/200/300.jpg?hmac=z-Zlq9KVG3pNsE5Jo6A7vqnh-B910bdMztU5AZKQV-o"
-        },
-        {
-          "id": 50,
-          "title": "Nebrija",
-          "description": "En 2022 se commemora el quinto centenario del fallecimiento de Antonio de Lebrija, más conocido como Antonio de Nebrija, autor de la Gramática castellana (1492), y principal humanista hispánico",
-          "image_url": "https://i.picsum.photos/id/58/200/300.jpg?hmac=qRT-eFOBMZ3y8sE79s2DVAruVf-Hzv_4x_vmXaqUIMk"
-        },
-        {
-          "id": 60,
-          "title": "Cassandra Darke",
-          "description": "Un Cuento de Navidad para nuestra época. Egoísta y solitaria, Cassandra Darke es una marchante de arte que vive en una lujosa mansión del barrio de Chelsea, en el mismísimo corazón de Londres. Se ha convertido en una paria social, pero no le preocupa",
-          "image_url": "https://i.picsum.photos/id/521/200/300.jpg?hmac=_MGlU-tHw5IBlsNL7YvJ9lTMo4Ge605GWQwuKGxWIWU"
-        },
-        {
-          "id": 400,
-          "title": "Heartstopper - Tomo 1",
-          "description": "Charlie y Nick van al mismo colegio, aunque nunca se habían cruzado hasta el día en que los hacen sentarse juntos en su grupo de estudio. Muy pronto se vuelven amigos y más pronto aún Charlie comienza a sentir cosas por Nick... aunque sabe que es un imposible.",
-          "image_url": "https://i.picsum.photos/id/682/200/300.jpg?hmac=z-Zlq9KVG3pNsE5Jo6A7vqnh-B910bdMztU5AZKQV-o"
-        },
-        {
-          "id": 500,
-          "title": "Nebrija",
-          "description": "En 2022 se commemora el quinto centenario del fallecimiento de Antonio de Lebrija, más conocido como Antonio de Nebrija, autor de la Gramática castellana (1492), y principal humanista hispánico",
-          "image_url": "https://i.picsum.photos/id/58/200/300.jpg?hmac=qRT-eFOBMZ3y8sE79s2DVAruVf-Hzv_4x_vmXaqUIMk"
-        },
-        {
-          "id": 600,
-          "title": "Cassandra Darke",
-          "description": "Un Cuento de Navidad para nuestra época. Egoísta y solitaria, Cassandra Darke es una marchante de arte que vive en una lujosa mansión del barrio de Chelsea, en el mismísimo corazón de Londres. Se ha convertido en una paria social, pero no le preocupa",
-          "image_url": "https://i.picsum.photos/id/521/200/300.jpg?hmac=_MGlU-tHw5IBlsNL7YvJ9lTMo4Ge605GWQwuKGxWIWU"
         }
       ]
     },

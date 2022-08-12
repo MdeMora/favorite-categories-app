@@ -1,4 +1,3 @@
-import classNames from 'classnames'
 import { CategoryItem } from 'constants/types'
 import { useFavorites } from 'hooks'
 import Image from 'next/image'
@@ -7,15 +6,9 @@ interface CategorySectionProps {
   sectionTitle: string
   item: CategoryItem
   fav?: boolean
-  last?: boolean
 }
 
-const CategoryCard = ({
-  sectionTitle,
-  item,
-  fav,
-  last,
-}: CategorySectionProps) => {
+const CategoryCard = ({ sectionTitle, item, fav }: CategorySectionProps) => {
   const { setNewFavorite, removeFavorite } = useFavorites()
 
   return (

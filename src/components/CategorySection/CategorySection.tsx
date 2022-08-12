@@ -19,13 +19,12 @@ const CategorySection = ({ title, items, fav, order }: CategorySection) => {
         {isEmpty(items) ? (
           <p className="mb-12">Añade tus obras favoritas para verlas aqui!</p>
         ) : (
-          items.map((item: CategoryItem, idx: number) => (
+          items.map((item: CategoryItem) => (
             <CategoryCard
               key={item.id}
               item={item}
               sectionTitle={title}
               fav={fav}
-              last={items.length === idx + 1}
             />
           ))
         )}

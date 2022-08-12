@@ -3,7 +3,7 @@ export enum ActiveCategoriesEnum {
   comics = 'Cómics',
 }
 
-export const ACTIVE_CATEGORIES = [
+export const ACTIVE_CATEGORIES: string[] = [
   ActiveCategoriesEnum.books,
   ActiveCategoriesEnum.comics,
 ]
